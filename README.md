@@ -1,13 +1,13 @@
 # CRONOGRAMACHURRASCO
   Um arquivo readme sobre o projeto da aula 3 (Cronograma)
 
-Cronograma Churrasco
+**CRONOGRAMA CHURRASCO**
 Tarefa Tecnologias em TI
 
-Objetivo do Cronograma 
-
-Churrasco
-
+**OBJETIVO DO CRONOGRAMA** 
+<sub>
+   Churrasco
+</sub>
 Planejamento
 
 Definir Quantidade de Carne
