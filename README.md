@@ -7,7 +7,7 @@
 Tarefa Tecnologias em TI
 ## Objetivo do Cronograma 
     - Churrasco
-    - Planejamento
+      - Planejamento
         - Definir Quantidade necessária de carne
         - Definir Quantidade necessária de bebida
         - Definir Local 
