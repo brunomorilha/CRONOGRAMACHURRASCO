@@ -1,31 +1,28 @@
-# CRONOGRAMACHURRASCO
+# Cronograma Churrasco
+
   Um arquivo readme sobre o projeto da aula 3 (Cronograma)
 
-**CRONOGRAMA CHURRASCO**
+## Descrição do Cronograma
 
 Tarefa Tecnologias em TI
-
-**OBJETIVO DO CRONOGRAMA** 
-   Churrasco
-Planejamento
-
-Definir Quantidade de Carne
-
-Definir Quantidade de bebida
-
-Definir local
-Definir Hora 
-Compras
-Comprar Carne
-Comprar bebida
-Comprar Salada e outros acompanhamentos 
-Pré Churrasco
-Preparar Carne
-Gelar bebida
-Limpar local do churrasco 
-Churrasco
-Ascender a churrasqueira 
-Receber os convidados 
-Assar Carne
-Servir Carne
-Servir bebida
+## Objetivo do Cronograma 
+    - Churrasco
+    - Planejamento
+        - Definir Quantidade necessária de carne
+        - Definir Quantidade necessária de bebida
+        - Definir Local 
+        - Definir Hora
+    - Compras
+        - Comprar Carne
+        - Comprar bebida
+        - Comprar Salada e outros acompanhamentos 
+    - Pré Churrasco 
+        - Preparar Carne
+        - Gelar bebida
+        - Limpar local do churrasco 
+    - Churrasco
+        - Ascender a Churrasqueira
+        - Receber os convidados 
+        - Assar a carne 
+        - Servir Carne
+        - Servir bebida
